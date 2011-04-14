@@ -493,4 +493,3 @@ namespace Rapid_Reporter {
         }
     }
 }
-

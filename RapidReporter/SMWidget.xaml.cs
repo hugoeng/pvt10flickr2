@@ -85,7 +85,7 @@ namespace Rapid_Reporter
         public SMWidget()
         {
 
-            MessageBoxResult result = System.Windows.MessageBox.Show("Do you want to login to Flickr?", "Flickr Login", MessageBoxButton.YesNo);
+            /*MessageBoxResult result = System.Windows.MessageBox.Show("Do you want to login to Flickr?", "Flickr Login", MessageBoxButton.YesNo);
             if (result == MessageBoxResult.Yes)
             {
 
@@ -95,7 +95,7 @@ namespace Rapid_Reporter
             else
             {
                 m_flickrLoggedIn = false;
-            }
+            }*/
 
             Logger.record("[SMWidget]: App constructor. Initializing.", "SMWidget", "info");
             InitializeComponent();
