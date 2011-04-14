@@ -28,6 +28,7 @@ using System.Windows.Media.Media3D;
 using System.Windows.Media.TextFormatting;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using System.Windows.Shell;
 
 
 namespace Rapid_Reporter {
@@ -36,10 +37,12 @@ namespace Rapid_Reporter {
     /// <summary>
     /// AboutDlg
     /// </summary>
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "4.0.0.0")]
     public partial class AboutDlg : System.Windows.Window, System.Windows.Markup.IComponentConnector {
         
         
         #line 5 "..\..\AboutDlg.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Grid Columns2_1;
         
         #line default
@@ -47,6 +50,7 @@ namespace Rapid_Reporter {
         
         
         #line 11 "..\..\AboutDlg.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Grid Rows4_1;
         
         #line default
@@ -54,6 +58,7 @@ namespace Rapid_Reporter {
         
         
         #line 21 "..\..\AboutDlg.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Grid NameVersion;
         
         #line default
@@ -61,6 +66,7 @@ namespace Rapid_Reporter {
         
         
         #line 26 "..\..\AboutDlg.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label appName;
         
         #line default
@@ -68,6 +74,7 @@ namespace Rapid_Reporter {
         
         
         #line 27 "..\..\AboutDlg.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label appVers;
         
         #line default
@@ -75,6 +82,7 @@ namespace Rapid_Reporter {
         
         
         #line 29 "..\..\AboutDlg.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label Description;
         
         #line default
@@ -82,6 +90,7 @@ namespace Rapid_Reporter {
         
         
         #line 30 "..\..\AboutDlg.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label Website;
         
         #line default
@@ -89,6 +98,7 @@ namespace Rapid_Reporter {
         
         
         #line 33 "..\..\AboutDlg.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label spacer1;
         
         #line default
@@ -96,6 +106,7 @@ namespace Rapid_Reporter {
         
         
         #line 34 "..\..\AboutDlg.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label License;
         
         #line default
@@ -103,6 +114,7 @@ namespace Rapid_Reporter {
         
         
         #line 35 "..\..\AboutDlg.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button Help;
         
         #line default
@@ -110,6 +122,7 @@ namespace Rapid_Reporter {
         
         
         #line 36 "..\..\AboutDlg.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button Ok;
         
         #line default
@@ -117,6 +130,7 @@ namespace Rapid_Reporter {
         
         
         #line 37 "..\..\AboutDlg.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label spacer2;
         
         #line default
@@ -124,6 +138,7 @@ namespace Rapid_Reporter {
         
         
         #line 38 "..\..\AboutDlg.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Grid Credits;
         
         #line default
@@ -131,6 +146,7 @@ namespace Rapid_Reporter {
         
         
         #line 44 "..\..\AboutDlg.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label Credit1;
         
         #line default
@@ -138,6 +154,7 @@ namespace Rapid_Reporter {
         
         
         #line 45 "..\..\AboutDlg.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label Credit2;
         
         #line default
@@ -145,6 +162,7 @@ namespace Rapid_Reporter {
         
         
         #line 46 "..\..\AboutDlg.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label Credit3;
         
         #line default
@@ -152,6 +170,7 @@ namespace Rapid_Reporter {
         
         
         #line 47 "..\..\AboutDlg.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label Credit4;
         
         #line default
@@ -159,6 +178,7 @@ namespace Rapid_Reporter {
         
         
         #line 48 "..\..\AboutDlg.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label Credit5;
         
         #line default
@@ -166,6 +186,7 @@ namespace Rapid_Reporter {
         
         
         #line 49 "..\..\AboutDlg.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label Credit7;
         
         #line default
@@ -173,6 +194,7 @@ namespace Rapid_Reporter {
         
         
         #line 50 "..\..\AboutDlg.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label Credit8;
         
         #line default
@@ -201,6 +223,8 @@ namespace Rapid_Reporter {
         [System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Never)]
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Design", "CA1033:InterfaceMethodsShouldBeCallableByChildTypes")]
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Maintainability", "CA1502:AvoidExcessiveComplexity")]
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1800:DoNotCastUnnecessarily")]
         void System.Windows.Markup.IComponentConnector.Connect(int connectionId, object target) {
             switch (connectionId)
             {

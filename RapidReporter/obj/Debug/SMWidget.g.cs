@@ -28,6 +28,7 @@ using System.Windows.Media.Media3D;
 using System.Windows.Media.TextFormatting;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using System.Windows.Shell;
 
 
 namespace Rapid_Reporter {
@@ -36,10 +37,12 @@ namespace Rapid_Reporter {
     /// <summary>
     /// SMWidget
     /// </summary>
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "4.0.0.0")]
     public partial class SMWidget : System.Windows.Window, System.Windows.Markup.IComponentConnector {
         
         
         #line 3 "..\..\SMWidget.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal Rapid_Reporter.SMWidget SMWidgetForm;
         
         #line default
@@ -47,6 +50,7 @@ namespace Rapid_Reporter {
         
         
         #line 5 "..\..\SMWidget.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ContextMenu cm;
         
         #line default
@@ -54,6 +58,7 @@ namespace Rapid_Reporter {
         
         
         #line 6 "..\..\SMWidget.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.MenuItem TimerMenu;
         
         #line default
@@ -61,6 +66,7 @@ namespace Rapid_Reporter {
         
         
         #line 10 "..\..\SMWidget.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.MenuItem t60;
         
         #line default
@@ -68,6 +74,7 @@ namespace Rapid_Reporter {
         
         
         #line 11 "..\..\SMWidget.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.MenuItem t90;
         
         #line default
@@ -75,6 +82,7 @@ namespace Rapid_Reporter {
         
         
         #line 12 "..\..\SMWidget.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.MenuItem t120;
         
         #line default
@@ -82,6 +90,7 @@ namespace Rapid_Reporter {
         
         
         #line 13 "..\..\SMWidget.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.MenuItem t0;
         
         #line default
@@ -89,6 +98,7 @@ namespace Rapid_Reporter {
         
         
         #line 17 "..\..\SMWidget.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.MenuItem ChangeAccount;
         
         #line default
@@ -96,6 +106,7 @@ namespace Rapid_Reporter {
         
         
         #line 18 "..\..\SMWidget.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.MenuItem OpenFolder;
         
         #line default
@@ -103,6 +114,7 @@ namespace Rapid_Reporter {
         
         
         #line 19 "..\..\SMWidget.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.MenuItem FolderName;
         
         #line default
@@ -110,6 +122,7 @@ namespace Rapid_Reporter {
         
         
         #line 22 "..\..\SMWidget.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.MenuItem AboutBox;
         
         #line default
@@ -117,6 +130,7 @@ namespace Rapid_Reporter {
         
         
         #line 37 "..\..\SMWidget.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Slider TransparencySlide;
         
         #line default
@@ -124,6 +138,7 @@ namespace Rapid_Reporter {
         
         
         #line 38 "..\..\SMWidget.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button ScreenShot;
         
         #line default
@@ -131,6 +146,7 @@ namespace Rapid_Reporter {
         
         
         #line 40 "..\..\SMWidget.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Image ScreenShotIcon;
         
         #line default
@@ -138,6 +154,7 @@ namespace Rapid_Reporter {
         
         
         #line 43 "..\..\SMWidget.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button ToggleUpload;
         
         #line default
@@ -145,6 +162,7 @@ namespace Rapid_Reporter {
         
         
         #line 47 "..\..\SMWidget.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Image ToggleUploadIcon;
         
         #line default
@@ -152,6 +170,7 @@ namespace Rapid_Reporter {
         
         
         #line 49 "..\..\SMWidget.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Primitives.ToggleButton RTFNoteBtn;
         
         #line default
@@ -159,6 +178,7 @@ namespace Rapid_Reporter {
         
         
         #line 51 "..\..\SMWidget.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Image RTFNoteBtnIcon;
         
         #line default
@@ -166,6 +186,7 @@ namespace Rapid_Reporter {
         
         
         #line 54 "..\..\SMWidget.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ProgressBar ProgressBackground;
         
         #line default
@@ -173,6 +194,7 @@ namespace Rapid_Reporter {
         
         
         #line 55 "..\..\SMWidget.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox nextType;
         
         #line default
@@ -180,6 +202,7 @@ namespace Rapid_Reporter {
         
         
         #line 56 "..\..\SMWidget.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox prevType;
         
         #line default
@@ -187,6 +210,7 @@ namespace Rapid_Reporter {
         
         
         #line 57 "..\..\SMWidget.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox NoteType;
         
         #line default
@@ -194,6 +218,7 @@ namespace Rapid_Reporter {
         
         
         #line 58 "..\..\SMWidget.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox FlickrInlogg;
         
         #line default
@@ -201,6 +226,7 @@ namespace Rapid_Reporter {
         
         
         #line 59 "..\..\SMWidget.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox AuthenticateMe;
         
         #line default
@@ -208,6 +234,7 @@ namespace Rapid_Reporter {
         
         
         #line 60 "..\..\SMWidget.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox NoteContent;
         
         #line default
@@ -215,6 +242,7 @@ namespace Rapid_Reporter {
         
         
         #line 62 "..\..\SMWidget.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ContextMenu NoteHistory;
         
         #line default
@@ -222,6 +250,7 @@ namespace Rapid_Reporter {
         
         
         #line 65 "..\..\SMWidget.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Image timeralarm;
         
         #line default
@@ -229,6 +258,7 @@ namespace Rapid_Reporter {
         
         
         #line 82 "..\..\SMWidget.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button CloseButton;
         
         #line default
@@ -257,6 +287,8 @@ namespace Rapid_Reporter {
         [System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Never)]
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Design", "CA1033:InterfaceMethodsShouldBeCallableByChildTypes")]
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Maintainability", "CA1502:AvoidExcessiveComplexity")]
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1800:DoNotCastUnnecessarily")]
         void System.Windows.Markup.IComponentConnector.Connect(int connectionId, object target) {
             switch (connectionId)
             {

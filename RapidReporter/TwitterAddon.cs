@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Diagnostics;
-using Twitterizer;
+using Twitterizer.Core;
 
 namespace Rapid_Reporter
 {

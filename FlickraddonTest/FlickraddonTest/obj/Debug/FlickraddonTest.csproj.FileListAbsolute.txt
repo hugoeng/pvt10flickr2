@@ -39,3 +39,10 @@ C:\Users\hugo\Desktop\RR\FlickraddonTest\FlickraddonTest\bin\Debug\nunit.framewo
 C:\Users\hugo\Desktop\RR\FlickraddonTest\FlickraddonTest\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\hugo\Desktop\RR\FlickraddonTest\FlickraddonTest\obj\Debug\FlickraddonTest.dll
 C:\Users\hugo\Desktop\RR\FlickraddonTest\FlickraddonTest\obj\Debug\FlickraddonTest.pdb
+C:\Users\Fredrik\Desktop\Rapidreporter\pvt10flickr2\FlickraddonTest\FlickraddonTest\bin\Debug\FlickraddonTest.dll
+C:\Users\Fredrik\Desktop\Rapidreporter\pvt10flickr2\FlickraddonTest\FlickraddonTest\bin\Debug\FlickraddonTest.pdb
+C:\Users\Fredrik\Desktop\Rapidreporter\pvt10flickr2\FlickraddonTest\FlickraddonTest\bin\Debug\nunit.framework.dll
+C:\Users\Fredrik\Desktop\Rapidreporter\pvt10flickr2\FlickraddonTest\FlickraddonTest\bin\Debug\nunit.framework.xml
+C:\Users\Fredrik\Desktop\Rapidreporter\pvt10flickr2\FlickraddonTest\FlickraddonTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fredrik\Desktop\Rapidreporter\pvt10flickr2\FlickraddonTest\FlickraddonTest\obj\Debug\FlickraddonTest.dll
+C:\Users\Fredrik\Desktop\Rapidreporter\pvt10flickr2\FlickraddonTest\FlickraddonTest\obj\Debug\FlickraddonTest.pdb
