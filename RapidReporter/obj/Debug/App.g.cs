@@ -28,6 +28,7 @@ using System.Windows.Media.Media3D;
 using System.Windows.Media.TextFormatting;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using System.Windows.Shell;
 
 
 namespace Rapid_Reporter {
@@ -36,6 +37,7 @@ namespace Rapid_Reporter {
     /// <summary>
     /// App
     /// </summary>
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "4.0.0.0")]
     public partial class App : System.Windows.Application {
         
         /// <summary>

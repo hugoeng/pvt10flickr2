@@ -28,6 +28,7 @@ using System.Windows.Media.Media3D;
 using System.Windows.Media.TextFormatting;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using System.Windows.Shell;
 
 
 namespace Rapid_Reporter {
@@ -36,10 +37,12 @@ namespace Rapid_Reporter {
     /// <summary>
     /// RTFNote
     /// </summary>
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "4.0.0.0")]
     public partial class RTFNote : System.Windows.Window, System.Windows.Markup.IComponentConnector {
         
         
         #line 4 "..\..\RTFNote.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal Rapid_Reporter.RTFNote RTFNoteDialog;
         
         #line default
@@ -47,6 +50,7 @@ namespace Rapid_Reporter {
         
         
         #line 12 "..\..\RTFNote.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.RichTextBox richTextNote;
         
         #line default
@@ -54,6 +58,7 @@ namespace Rapid_Reporter {
         
         
         #line 18 "..\..\RTFNote.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button clean;
         
         #line default
@@ -61,6 +66,7 @@ namespace Rapid_Reporter {
         
         
         #line 19 "..\..\RTFNote.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button save;
         
         #line default
@@ -89,6 +95,8 @@ namespace Rapid_Reporter {
         [System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Never)]
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Design", "CA1033:InterfaceMethodsShouldBeCallableByChildTypes")]
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Maintainability", "CA1502:AvoidExcessiveComplexity")]
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1800:DoNotCastUnnecessarily")]
         void System.Windows.Markup.IComponentConnector.Connect(int connectionId, object target) {
             switch (connectionId)
             {
