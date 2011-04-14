@@ -485,3 +485,5 @@ C:\Users\hugo\Desktop\RR\RapidReporter\obj\Debug\RapidReporter.exe.manifest
 C:\Users\hugo\Desktop\RR\RapidReporter\obj\Debug\RapidReporter.application
 C:\Users\hugo\Desktop\RR\RapidReporter\obj\Debug\RapidReporter.exe
 C:\Users\hugo\Desktop\RR\RapidReporter\obj\Debug\RapidReporter.pdb
+C:\Users\Fredrik\Desktop\Rapidreporter\pvt10flickr2\RapidReporter\obj\Debug\RapidReporter.exe
+C:\Users\Fredrik\Desktop\Rapidreporter\pvt10flickr2\RapidReporter\obj\Debug\RapidReporter.pdb
