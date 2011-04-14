@@ -90,7 +90,7 @@ namespace Rapid_Reporter
             {
 
                 m_flickr.Login();
-                m_flickrLoggedIn = true;
+                m_flickrLoggedIn = true;  BAJSKORV!!!!!!!!!!!!!!!!!
             }
             else
             {
