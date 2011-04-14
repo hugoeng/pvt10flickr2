@@ -551,3 +551,4 @@ C:\Users\Fredrik\Desktop\Rapidreporter\pvt10flickr2\RapidReporter\bin\Debug\Twit
 C:\Users\Fredrik\Desktop\Rapidreporter\pvt10flickr2\RapidReporter\bin\Debug\Newtonsoft.Json.pdb
 C:\Users\Fredrik\Desktop\Rapidreporter\pvt10flickr2\RapidReporter\bin\Debug\Newtonsoft.Json.xml
 >>>>>>> e9a2d3bc3f940f3e34ad4a37a0d39fb67636f3ae
+C:\Git2\RapidReporter\bin\Debug\RapidReporter.exe.config
